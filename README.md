@@ -10,4 +10,4 @@ Deel 4: Pull requests en samenwerken is gedaan door Kaan en Tobias
 
 Deel 5: Eindresultaat is gedaan door Tobias en Kaan
 
-Pull requests zijn closed dus je moet daar onder filteren
+Kijk onder closed pull requests om onze oude pull requests the zien!
